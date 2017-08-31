@@ -1,0 +1,30 @@
+{
+  "name": "dumpster-fire-server",
+  "version": "0.0.0",
+  "description": "The dumpster-fire server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/in-need-of-rename/dumpster-fire-server.git"
+  },
+  "keywords": [
+    "dumpster-fire",
+    "server"
+  ],
+  "author": "Gary Borton <gdborton@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/in-need-of-rename/dumpster-fire-server/issues"
+  },
+  "homepage": "https://github.com/in-need-of-rename/dumpster-fire-server#readme",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "chokidar": "^1.7.0",
+    "dumpster-fire": "*",
+    "express": "^4.15.4",
+    "find-node-modules": "^1.0.4"
+  }
+}
